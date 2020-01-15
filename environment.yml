@@ -15,6 +15,5 @@ dependencies:
   - folium
   - requests
   - pip:
-    - json
     - datetime
   
