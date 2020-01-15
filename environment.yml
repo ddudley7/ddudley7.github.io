@@ -13,3 +13,5 @@ dependencies:
   - dask
   - pandasql
   - folium
+  - requests
+  - datetime
