@@ -16,4 +16,5 @@ dependencies:
   - requests
   - pip:
     - datetime
+    - requests
   
