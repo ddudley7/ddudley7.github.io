@@ -14,4 +14,7 @@ dependencies:
   - pandasql
   - folium
   - requests
-  - datetime
+  - pip:
+    - json
+    - datetime
+  
