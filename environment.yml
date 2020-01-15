@@ -13,7 +13,7 @@ dependencies:
   - dask
   - pandasql
   - folium
-  - requests
   - pip:
     - datetime
+    - requests
   
